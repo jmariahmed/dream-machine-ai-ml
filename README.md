@@ -1,5 +1,5 @@
 # Dream Machine
-Link to project: 
+Link to project: https://jmariahmed.github.io/dream-machine-ai-ml/
 
 ## Project Overview
 
